@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'af-sec-rev2'
-s.version = '0.1."$CI_PIPELINE_IID"'
+s.version = '0.1.'43\
     s.summary          = 'A short description of af-sec-rev2. Just hanging around...' 
   
   # This description is used to generate tags and improve search results.
