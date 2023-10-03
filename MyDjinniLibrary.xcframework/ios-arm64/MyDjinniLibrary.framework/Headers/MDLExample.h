@@ -9,6 +9,8 @@
 
 + (nonnull NSString *)helloFromCpp;
 
++ (nonnull NSString *)retVer;
+
 + (nonnull NSString *)helloFromNative:(nullable id<MDLNative>)from;
 
 @end
