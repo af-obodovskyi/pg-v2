@@ -4,7 +4,7 @@
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>my.djinnilibrary</groupId>
-  <artifactId>MyDjinniLibrary</artifactId>
+  <artifactId>mydjinnilibrary</artifactId>
   <version>0.1.126</version>
   <dependencies>
   </dependencies>
