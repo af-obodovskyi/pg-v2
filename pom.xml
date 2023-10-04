@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>my.djinnilibrary</groupId>
   <artifactId>mydjinnilibrary</artifactId>
-  <version>0.1.127</version>
+  <version>0.1.128</version>
   <dependencies>
   </dependencies>
 </project>
